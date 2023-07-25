@@ -1,0 +1,24 @@
+
+<!-- Navigation-->
+<nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+    <div class="container">
+        <a class="navbar-brand"  href="#page-top"><img src="assets/img/tanzu_logo1.png" alt="..." /> VMware Tanzu</a>
+        <!-- <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            Menu
+            <i class="fas fa-bars ms-1"></i>
+        </button> -->
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav text-uppercase">
+                <li class="nav-item">
+                    <a  routerLink="{{ parentLink.link }}" class="nav-link" href="">{{ parentLink.label }}</a>
+                </li>
+            </ul>
+            <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
+                <li *ngFor="let menuitem of menuArray" class="nav-item">
+                    <a  href="{{ menuitem.menulink }}" class="nav-link" href="">{{ menuitem.menuname }}</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+</nav>

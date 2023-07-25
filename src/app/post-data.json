@@ -1,0 +1,75 @@
+{  
+    "name": "posts",  
+    "title": "Posts",
+    "subtitle": "",
+    "text": "Please select tags to search specific topic",  
+    "searchTags": "POC, TAP, AIR-GAPPED",
+    "posts": [  
+        {   
+            "name": "post1",  
+            "title": "Post1",
+            "subtitle": "subtitle1",
+            "text": "text1",
+            "author": "Görkem Özlü",
+            "authorRole": "Tanzu Senior Solution Engineer",
+            "authorImage": "assets/img/gorkem.png",
+            "postData": "Tuesday 25 Jul 2023",
+            "tags": "TAP, AIR-GAPPED",
+            "contents": [  
+                {    
+                    "title": "Air-Gapped TAP Deployment",
+                    "subtitle": "A Fully scripted TAP deployment",
+                    "text": "This procedure will help to automate deploying for TAP (tested up to v1.5) including the TAP deployment for an Air-Gapped environment",
+                    "imagePath": "",
+                    "paragraphs": [  
+                        {    
+                            "title": "Video",
+                            "text": "This video will show how to use the custom procedure to deploy the environment. Please refer to 'Requirement document' link for pre-requisites",
+                            "link": "https://via.vmw.com/TapGitOpsInstall",
+                            "imagePath": "assets/img/tap-video-image.png"
+                        },
+                        {    
+                            "title": "Requirement document",
+                            "text": "This link will describe all requirements and help di acquire setting from the customer to set up the environment",
+                            "link": "https://github.com/gorkemozlu/tap-gitops-ri",
+                            "imagePath": "assets/img/git-rep1.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {   
+            "name": "post2",  
+            "title": "",
+            "subtitle": "",
+            "text": "",
+            "author": "Carlo Pulcini",
+            "authorRole": "Tanzu Senior Solution Engineer",
+            "authorImage": "assets/img/carlo.png",
+            "postData": "Tuesday 26 Jul 2023",
+            "tags": "TAP, INSTALL, VSPHERE",
+            "contents": [  
+                {    
+                    "title": "TAP 1.4 Step-by-step Installation on vSphere with Tanzu",
+                    "subtitle": "A CLI fascion TAP deployment",
+                    "text": "This procedure allows you to deploy TAP from command line on a basic Workload Cluster deployend on vSphere with Tanzu version 7.0.3. Kubenernetes version is 1.23. An embedded harbor registry has benn configured. This proceedure should work alkso with vSphere with Tanzu v8. But it's not been tested jet. Essential Pack should come installed with 1.23. If needed procede with installation Tanzu cli must be installed on laptop or server.",
+                    "imagePath": "",
+                    "paragraphs": [  
+                        {    
+                            "title": "Video",
+                            "text": "This video will show how to use install TAP 1.4 step-by-step via command line",
+                            "link": "https://via.vmw.com/TapInstallationOnH2O",
+                            "imagePath": "assets/img/tap-gui.png"
+                        },
+                        {    
+                            "title": "Gitrepo",
+                            "text": "Same procedure shown in the video but with command that can be copied/pasted",
+                            "link": "https://via.vmw.com/stepByStepTAPInstall",
+                            "imagePath": "assets/img/tap-github.png"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+} 

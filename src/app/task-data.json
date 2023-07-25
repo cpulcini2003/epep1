@@ -1,0 +1,161 @@
+{  
+    "name": "How to PoC (for Tanzu Application Platform)",  
+    "sections": [  
+        {   
+            "name": "intro",  
+            "title": "Introduction",
+            "subtitle": "",
+            "text": "A proof of concept (POC) is the process of proving that an idea is feasible.\nIt's a screening phase to decide whether the idea can and should be brought to life.\nBefore proposing a POC, please be aware that it may very well reveal that a great-on-paper proposal doesn't have legs to stand on",
+            "contents": [  
+                {    
+                    "title": "Customer Lifecycle Incentive",
+                    "subtitle": "",
+                    "text": "Proof of Concept rewards partners for validating customers desired end states with VMware Solutions in their own IT and Cloud environments",
+                    "imagePath": "",
+                    "paragraphs": []
+                },
+                {    
+                    "title": "PoC Eligibility Product List",
+                    "subtitle": "",
+                    "text": "A relevant Solution Competency + Master Services Competency is required by the partner to execute one of these incentives. More information can be found in the links below (requires Partner Connect credentials)",
+                    "imagePath": "",
+                    "paragraphs": []
+                },
+                {    
+                    "title": "",
+                    "subtitle": "",
+                    "text": "",
+                    "imagePath": "",
+                    "paragraphs": [  
+                        {    
+                            "title": "",
+                            "text": "VMware Partner Connect Portal",
+                            "link": "https://www.vmware.com/partners/work-with-vmware/partner-connect.html",
+                            "imagePath": "assets/img/partner-connect.png"
+                        },
+                        {    
+                            "title": "",
+                            "text": "Tanzu Partner Learning Center",
+                            "link": "https://www.vmware.com/partners/partner-resources/partner-learning.html",
+                            "imagePath": "assets/img/partner-university.png"
+                        }
+                    ]
+                } 
+            ]
+        },
+        {   
+            "name": "objectives",  
+            "title": "Objectives",
+            "subtitle": "",
+            "text": "",
+            "contents": [  
+                {    
+                    "title": "Customers’ high level objectives",
+                    "subtitle": "",
+                    "text": "Evaluate VMware Tanzu Kubernetes for Operations (TKO) offering from Administration, DevOps and Platform perspectives.",
+                    "imagePath": "",
+                    "paragraphs": []
+                },
+                {    
+                    "title": "VMware Tanzu objectives",
+                    "subtitle": "",
+                    "text": "The goal of a PoC is not to provide an exhaustive vetting of every capability of TKO. If a customer asks for this, they are likely in exploratory mode, not purchasing mode. \nA PoC should be used to validate a subset of platform capabilities that address an immediate need for thecustomer and that can justify the execution of an initialsale. We should educate and enable the customer on other platform features that don’t fall in this scope but not in the context of a formal PoC.",
+                    "imagePath": "",
+                    "paragraphs": []
+                },
+                {    
+                    "title": "Objectives and Key Results (OKR)",
+                    "subtitle": "",
+                    "text": "OKRs are an effective goal-setting and leadership tool for communicating what you want to accomplish and what milestones you’ll need to meet in order to accomplish it. Take a look at this link for further details",
+                    "imagePath": "",
+                    "paragraphs": [  
+                        {    
+                            "title": "",
+                            "text": "Open OKRs portal link",
+                            "link": "https://www.whatmatters.com/faqs/okr-meaning-definition-example",
+                            "imagePath": ""
+                        }
+                    ]
+                } 
+            ]
+        },
+        {   
+            "name": "informations",  
+            "title": "Useful Informations and Links",
+            "subtitle": "",
+            "text": "Please find in this section some link to dowload or view PoC related document templates for managing the activity between customer, partner and Vmware",
+            "contents": [  
+                {    
+                    "title": "SoW",
+                    "subtitle": "Statement of work",
+                    "text": "This is the SoW template needed by the partner to get signed from the customer to engage officialy in the PoC. This document need to be returned to VMware sales rep",
+                    "imagePath": "",
+                    "paragraphs": [  
+                        {    
+                            "title": "",
+                            "text": "",
+                            "link": "https://drive.google.com/open?id=10PDZr_AC7VSb8H8CPwWLkfjbl7qC24PO&usp=drive_fs",
+                            "imagePath": "assets/img/poc-image.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {   
+            "name": "phases",  
+            "title": "Phases",
+            "subtitle": "",
+            "text": "Please find below the chronological steps to accomplish to the desired objective",
+            "contents": [  
+                {    
+                    "title": "Identify and validate with customer TAP Evaluation Points (Use cases)",
+                    "subtitle": "",
+                    "text": "In order to identifying use cases for the PoC, meet the customer to discover challenges on application modernization.\nWith these feedbacks, create a proof of concept of the product that addresses the pain points and offers feasible solutions. It is necessary to detail the product development components, including clearly defined success criteria, functionalities, features and benefits of the product",
+                    "imagePath": "assets/img/about/3.jpg",
+                    "paragraphs": [
+                        {    
+                            "title": "",
+                            "text": "Use the document at this link to prepare conversation",
+                            "link": "https://drive.google.com/open?id=10ve9E-9pYc5s39PZfe6Esxh8kiheLay8&usp=drive_fs",
+                            "imagePath": ""
+                        },
+                        {    
+                            "title": "",
+                            "text": "A template containing a list of possible use cases can be found at the following ",
+                            "link": "https://docs.google.com/presentation/d/10xhhnWfuCoZ7UgptYwyuyGvHOTzvQxbE?rtpof=true&usp=drive_fs",
+                            "imagePath": ""
+                        }
+                    ]
+                },
+                {    
+                    "title": "Use cases deployment",
+                    "subtitle": "",
+                    "text": "This document is a sample of how to create a plan for the activities and trace each use case completion and success",
+                    "imagePath": "assets/img/about/2.jpg",
+                    "paragraphs": [
+                        {    
+                            "title": "",
+                            "text": "The document at this link can be used present the detailed plan for the PoC and share success creteria with the customer",
+                            "link": "https://via.vmw.com/NLxB4G",
+                            "imagePath": ""
+                        }
+                    ]
+                },
+                {    
+                    "title": "Knowledge Transfer",
+                    "subtitle": "",
+                    "text": "In order to allow customer to become confident and understand Tanzu value, a knowledge transfer activity should be planned. This activity enables organisations within the customer to acquire expertise, skills, and experience on PoC’s involved technologies.",
+                    "imagePath": "",
+                    "paragraphs": []
+                },
+                {    
+                    "title": "Show Outcomes",
+                    "subtitle": "Presentation of the proof of concept outcomes",
+                    "text": "The finalised proof of concept will then be presented to stakeholders and investors for their approval, certifying its viability and finally approving the product for development. This should clarify, among other things, the problems solved by the product, the features addressed by these solutions and the technologies integrated in its development to demonstrate the feasibility of the project idea. It is also necessary to include details such as schedule, cost, success criteria and resources ",
+                    "imagePath": "assets/img/about/1.jpg",
+                    "paragraphs": []
+                } 
+            ]
+        }
+    ]
+} 

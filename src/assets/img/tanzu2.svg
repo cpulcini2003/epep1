@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1743.9 640.84">
+  <defs>
+    <linearGradient id="a" x1="275.76" y1="916.6" x2="1468.13" y2="-275.76" gradientUnits="userSpaceOnUse">
+      <stop offset="0.2" stop-color="#1b2a32"/>
+      <stop offset="1" stop-color="#1b2a32" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="b" x1="1491.24" y1="320.42" x2="1660.85" y2="320.42" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1b2a32" stop-opacity="0"/>
+      <stop offset="1" stop-color="#1b2a32"/>
+    </linearGradient>
+    <linearGradient id="c" x1="782.64" y1="549.29" x2="782.64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0091da" stop-opacity="0"/>
+      <stop offset="0.06" stop-color="#0091da" stop-opacity="0.05"/>
+      <stop offset="0.25" stop-color="#0091da" stop-opacity="0.19"/>
+      <stop offset="0.41" stop-color="#0091da" stop-opacity="0.27"/>
+      <stop offset="0.53" stop-color="#0091da" stop-opacity="0.3"/>
+      <stop offset="0.63" stop-color="#0091da" stop-opacity="0.27"/>
+      <stop offset="0.78" stop-color="#0091da" stop-opacity="0.19"/>
+      <stop offset="0.94" stop-color="#0091da" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#0091da" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="d" x1="553.95" y1="91.2" x2="553.95" y2="457.73" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#19bfd3" stop-opacity="0"/>
+      <stop offset="0.05" stop-color="#19bfd3" stop-opacity="0.04"/>
+      <stop offset="0.23" stop-color="#19bfd3" stop-opacity="0.18"/>
+      <stop offset="0.39" stop-color="#19bfd3" stop-opacity="0.27"/>
+      <stop offset="0.5" stop-color="#19bfd3" stop-opacity="0.3"/>
+      <stop offset="0.61" stop-color="#19bfd3" stop-opacity="0.27"/>
+      <stop offset="0.77" stop-color="#19bfd3" stop-opacity="0.19"/>
+      <stop offset="0.95" stop-color="#19bfd3" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#19bfd3" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1743.9" height="640.84" style="fill: #1b2a32"/>
+  <rect width="1743.9" height="640.84" style="fill: url(#a)"/>
+  <rect x="1491.24" width="169.61" height="640.84" style="fill: url(#b)"/>
+  <polygon points="279.13 549.29 828.41 0 1286.15 0 736.87 549.29 279.13 549.29" style="fill: url(#c)"/>
+  <polygon points="828.79 91.2 462.21 457.73 279.11 457.73 645.69 91.2 828.79 91.2" style="fill: url(#d)"/>
+</svg>
